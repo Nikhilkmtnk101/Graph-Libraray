@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1598269223 source:c:\users\hp\desktop\project\testlib\main.cpp
+	<iostream>
+	"graph.h"
+
+1598257738 c:\users\hp\desktop\project\testlib\graph.h
+	<iostream>
+	<vector>
+	<map>
+	<unordered_map>
+
+1598082468 c:\users\hp\desktop\project\testlib\header.h
+	<iostream>
+

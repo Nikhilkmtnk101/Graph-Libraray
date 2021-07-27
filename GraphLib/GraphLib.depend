@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1598097579 source:c:\users\hp\desktop\project\graphlib\graph.cpp
+	"graph.h"
+
+1598084688 source:c:\users\hp\desktop\project\graphlib\crap.cpp
+
+1598097637 source:c:\users\hp\desktop\project\graphlib\print_graph.cpp
+	"graph.h"
+
+1598097678 source:c:\users\hp\desktop\project\graphlib\breadth_first_search.cpp
+	"graph.h"
+	<queue>
+
+1598172314 source:c:\users\hp\desktop\project\graphlib\functionality1.cpp
+	"graph.h"
+	<algorithm>
+
+1598254189 source:c:\users\hp\desktop\project\graphlib\connected_components.cpp
+	"graph.h"
+	<queue>
+
